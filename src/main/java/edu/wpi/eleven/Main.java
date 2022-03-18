@@ -6,5 +6,6 @@ public class Main {
     App.launch(App.class, args);
     System.out.println("Ben Schmitt");
     System.out.println("Harsh Patel");
+    System.out.println("Timothy Klein");
   }
 }

@@ -56,3 +56,4 @@ To install the styleguide scheme into IntelliJ, `Preferences -> Editor -> Code S
  -> ... -> Import Scheme -> IntelliJ IDEA code style XML`, then select `config/intellij-java
  -google-style.xml` from the project's root directory 
 "# GitHub-Exercise" 
+"# GitHub-Exercise" 
